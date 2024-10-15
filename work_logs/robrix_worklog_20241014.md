@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Ongoing tasks:
 In the meantime I'm going to refine the `Settings` page, under `home/spaces_dock.rs`.
 
