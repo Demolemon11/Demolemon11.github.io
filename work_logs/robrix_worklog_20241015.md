@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ## Ongoing tasks:
 I'm keep on doing refining the `Settings` page, under `home/spaces_dock.rs`.
 
@@ -53,7 +49,7 @@ impl MatchEvent for Home {
 ```
 'Cause I have learned a lot from `Settings` button, Developing this become much easiser!
 
-(**Demo video here**)[https://github.com/Demolemon11/Demolemon11.github.io/blob/hotfix/statics/2024-10-15_19-24-43.webm]
+[**Demo video here**](https://github.com/Demolemon11/Demolemon11.github.io/blob/hotfix/statics/2024-10-15_19-24-43.webm)
 
 ## WorkInsights:
 Whereas Mr.Julian has shared a breaking debug skill, I immediately apply it in `spaces_dock.rs` of robrix.

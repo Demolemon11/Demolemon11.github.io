@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ## Ongoing tasks:
 In the meantime I'm going to refine the `Settings` page, under `home/spaces_dock.rs`.
 
@@ -75,7 +71,7 @@ I watched the salon that Mr. Zhang shared on Saturday, and Mr. Zhang's collapsib
 
 I shall report this as an `issue` to makepad soonly.
 
-[Here is a demo video](https://github.com/Demolemon11/Demolemon11.github.io/blob/hotfix/statics/2024-10-14_21-29-59.webm)
+[**Demo video here**](https://github.com/Demolemon11/Demolemon11.github.io/blob/hotfix/statics/2024-10-14_21-29-59.webm)
 
 ## WorkInsights:
 None
