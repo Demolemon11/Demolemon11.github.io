@@ -20,12 +20,5 @@
 </style>
 
 <script>
-  // 从 https://ipgeo-bingpic.hf.space 获取每日 Bing 图片
-  fetch('https://ipgeo-bingpic.hf.space')
-    .then(response => response.json())
-    .then(data => {
-      const imageUrl = data.url;  // 获取到图片 URL
-      document.body.style.backgroundImage = `url(${imageUrl})`;  // 设置为背景
-    })
-    .catch(error => console.error('Error fetching Bing image:', error));
+document.body.style.backgroundImage = 'url("https://ipgeo-bingpic.hf.space")';
 </script>
