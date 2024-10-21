@@ -20,15 +20,12 @@
 </style>
 
 <script>
-  const proxyUrl = 'https://cors-anywhere.herokuapp.com/'; // 使用 CORS 代理
-  const bingUrl = 'https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1';
-  // 获取 Bing 每日图片
-  fetch(proxyUrl + bingUrl)
+  // 从 https://ipgeo-bingpic.hf.space 获取每日 Bing 图片
+  fetch('https://ipgeo-bingpic.hf.space')
     .then(response => response.json())
     .then(data => {
-      const baseUrl = 'https://www.bing.com';
-      const imageUrl = baseUrl + data.images[0].url;
-      document.body.style.backgroundImage = `url(${imageUrl})`;
+      const imageUrl = data.url;  // 获取到图片 URL
+      document.body.style.backgroundImage = `url(${imageUrl})`;  // 设置为背景
     })
     .catch(error => console.error('Error fetching Bing image:', error));
 </script>
