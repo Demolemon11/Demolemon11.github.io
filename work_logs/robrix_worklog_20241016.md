@@ -1,4 +1,4 @@
-[**A demo picture here**](https://github.com/Demolemon11/Demolemon11.github.io/blob/hotfix/2024-10-16_18-20-22.png)
+[**A demo picture here**](https://github.com/Demolemon11/Demolemon11.github.io/blob/hotfix/statics/2024-10-16_18-20-22.png)
 
 ## Ongoing tasks:
 I'm keep on doing refining the `Settings` page, under `home/spaces_dock.rs`.
