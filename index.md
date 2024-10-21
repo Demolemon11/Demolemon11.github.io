@@ -20,8 +20,10 @@
 </style>
 
 <script>
+  const proxyUrl = 'https://cors-anywhere.herokuapp.com/'; // 使用 CORS 代理
+  const bingUrl = 'https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1';
   // 获取 Bing 每日图片
-  fetch('https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1')
+  fetch(proxyUrl + bingUrl)
     .then(response => response.json())
     .then(data => {
       const baseUrl = 'https://www.bing.com';
