@@ -12,7 +12,7 @@
     .then(response => response.json())
     .then(data => {
       const imageUrl = data.url;  // 获取到 1920x1080 分辨率的图片 URL
-      document.body.style.backgroundImage = `url("${imageUrl}")`;
+      document.body.style.backgroundImage = 'url("${imageUrl}")';
     })
     .catch(error => console.error('Error fetching Bing image:', error));
 </script>
