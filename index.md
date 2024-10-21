@@ -7,12 +7,5 @@
 [**Robrix_Worklog_2024_1021**](https://github.com/Demolemon11/Demolemon11.github.io/blob/hotfix/work_logs/robrix_worklog_20241021.md)
 
 <script>
-  // 使用 bing.biturl.top API 来获取 1920x1080 分辨率的 Bing 图片
-  fetch('https://bing.biturl.top/?resolution=1920&format=json')
-    .then(response => response.json())
-    .then(data => {
-      const imageUrl = data.url;  // 获取到 1920x1080 分辨率的图片 URL
-      document.body.style.backgroundImage = 'url("${imageUrl}")';
-    })
-    .catch(error => console.error('Error fetching Bing image:', error));
+  document.body.style.backgroundImage = 'url("https://www.bing.com/th?id=OHR.AutumnCypress_ZH-CN5099875619_1920x1080.jpg")';
 </script>
