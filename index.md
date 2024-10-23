@@ -13,7 +13,6 @@
 <script>
   const isMobile = window.innerWidth < 1080;
   document.body.style.backgroundImage = 'url("https://bing.img.run/uhd.php")';
-  document.body.style.backgroundSize = 'cover';
   if (isMobile) {
   }
   else {
