@@ -15,7 +15,6 @@
   document.body.style.backgroundImage = 'url("https://bing.img.run/uhd.php")';
   document.body.style.backgroundSize = 'cover';
   if (isMobile) {
-    document.body.style.backgroundSize = '100% 100%';
   }
   else {
     document.body.style.backgroundSize = 'cover';
