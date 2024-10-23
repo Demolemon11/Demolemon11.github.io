@@ -8,6 +8,8 @@
 
 [**Robrix_Worklog_2024_1022**](https://github.com/Demolemon11/Demolemon11.github.io/blob/hotfix/work_logs/robrix_worklog_20241022.md)
 
+[**Robrix_Worklog_2024_1023**](https://github.com/Demolemon11/Demolemon11.github.io/blob/hotfix/work_logs/robrix_worklog_20241023.md)
+
 <script>
   document.body.style.backgroundImage = 'url("https://bing.img.run/uhd.php")';
 </script>
