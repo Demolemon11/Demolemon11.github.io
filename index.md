@@ -12,7 +12,5 @@
 
 <script>
   document.body.style.backgroundImage = 'url("https://bing.img.run/uhd.php")';
-  document.body.style.backgroundSize = '100% 100%';
-  document.body.style.backgroundRepeat = 'no-repeat';
-  document.body.style.backgroundPosition = 'center';
+  document.body.style.backgroundSize = 'cover';
 </script>
