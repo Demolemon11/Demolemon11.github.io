@@ -11,10 +11,10 @@
 [**Robrix_Worklog_2024_1023**](https://github.com/Demolemon11/Demolemon11.github.io/blob/hotfix/work_logs/robrix_worklog_20241023.md)
 
 <script>
-  const isMobile = window.innerWidth < 1080;
+  const isMobile = window.innerWidth < 1090;
   document.body.style.backgroundImage = 'url("https://bing.img.run/uhd.php")';
   if (isMobile) {
-  document.body.style.backgroundSize = 'auto 100%';
+  // document.body.style.backgroundSize = 'auto 100%';
   document.body.style.backgroundPosition = 'center';
   }
   else {
