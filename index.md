@@ -15,8 +15,10 @@
   document.body.style.backgroundImage = 'url("https://bing.img.run/uhd.php")';
   if (isMobile) {
   document.body.style.backgroundSize = 'auto 100%';
+  document.body.style.backgroundPosition = 'center';
   }
   else {
     document.body.style.backgroundSize = '100% auto';
   }
+  document.body.style.backgroundRepeat = 'no-repeat';
 </script>
