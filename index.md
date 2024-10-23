@@ -12,4 +12,7 @@
 
 <script>
   document.body.style.backgroundImage = 'url("https://bing.img.run/uhd.php")';
+  document.body.style.backgroundSize = 'contain';
+  document.body.style.backgroundRepeat = 'no-repeat';
+  document.body.style.backgroundPosition = 'center';
 </script>
