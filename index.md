@@ -14,14 +14,18 @@
 
 [**Robrix_Worklog_2024_1025**](https://github.com/Demolemon11/Demolemon11.github.io/blob/hotfix/work_logs/robrix_worklog_20241025.md)
 
+[**Robrix_Worklog_2024_1026**](https://github.com/Demolemon11/Demolemon11.github.io/blob/hotfix/work_logs/robrix_worklog_20241025.md)
+
 <script>
   const isMobile = window.innerWidth < 1090;
   document.body.style.backgroundImage = 'url("https://bing.img.run/uhd.php")';
+
   if (isMobile) {
   document.body.style.backgroundPosition = 'center';
   }
   else {
     document.body.style.backgroundSize = '100% auto';
   }
+
   document.body.style.backgroundRepeat = 'no-repeat';
 </script>
