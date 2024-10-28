@@ -14,7 +14,9 @@
 
 [**Robrix_Worklog_2024_1025**](https://github.com/Demolemon11/Demolemon11.github.io/blob/hotfix/work_logs/robrix_worklog_20241025.md)
 
-[**Robrix_Worklog_2024_1026**](https://github.com/Demolemon11/Demolemon11.github.io/blob/hotfix/work_logs/robrix_worklog_20241025.md)
+[**Robrix_Worklog_2024_1026**](https://github.com/Demolemon11/Demolemon11.github.io/blob/hotfix/work_logs/robrix_worklog_20241026.md)
+
+[**Robrix_Worklog_2024_1028**](https://github.com/Demolemon11/Demolemon11.github.io/blob/hotfix/work_logs/robrix_worklog_20241028.md)
 
 <script>
   const isMobile = window.innerWidth < 1090;
