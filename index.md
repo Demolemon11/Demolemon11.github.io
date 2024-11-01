@@ -24,6 +24,8 @@
 
 [**Robrix_Worklog_2024_1031**](https://github.com/Demolemon11/Demolemon11.github.io/blob/hotfix/work_logs/robrix_worklog_20241031.md)
 
+[**Robrix_Worklog_2024_1101**](https://github.com/Demolemon11/Demolemon11.github.io/blob/hotfix/work_logs/robrix_worklog_20241101.md)
+
 <script>
   const isMobile = window.innerWidth < 1090;
   document.body.style.backgroundImage = 'url("https://bing.img.run/uhd.php")';
