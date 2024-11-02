@@ -12,5 +12,4 @@ but there is a large amount of code in moly, it is not convinint for me to find 
 
 
 ## WorkInsights:
-
 There are supposed to appaer more shared components, IMHO.

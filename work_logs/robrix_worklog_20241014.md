@@ -2,6 +2,16 @@
     <source src="../statics/2024-10-14_21-29-59.webm" type="video/webm">
 </video>
 
+<style>
+video {
+    width: 640px;
+    height: auto;
+    transform: translate(-50%, -50%);
+}
+</style>
+
+
+
 ## Ongoing tasks:
 In the meantime I'm going to refine the `Settings` page, under `home/spaces_dock.rs`.
 
