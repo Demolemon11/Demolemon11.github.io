@@ -7,10 +7,10 @@ video {
   position: absolute;
   top: 50%;
   left: 50%;
-  min-width: 100%;
-  min-height: 100%;
-  width: 640px;
-  height: auto;
+  min-width: 50%;
+  min-height: 50%;
+  width: 1600px;
+  height: 900px;
   transform: translate(-50%, -50%);
 }
 </style>
