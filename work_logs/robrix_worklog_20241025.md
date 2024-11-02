@@ -1,4 +1,6 @@
-[**A demo video here**](https://github.com/Demolemon11/Demolemon11.github.io/blob/hotfix/statics/2024-10-25_10-53-02.webm)
+<video controls>
+    <source src="../statics/2024-10-25_10-53-02.webm" type="video/webm">
+</video>
 
 ## Ongoing tasks:
 Keep on doing refining the `Settings` page.

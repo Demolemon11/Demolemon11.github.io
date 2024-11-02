@@ -1,6 +1,3 @@
-
-<!-- [**A demo video here**](../statics/2024-10-14_21-29-59.webm) -->
-
 <video controls>
     <source src="../statics/2024-10-14_21-29-59.webm" type="video/webm">
 </video>

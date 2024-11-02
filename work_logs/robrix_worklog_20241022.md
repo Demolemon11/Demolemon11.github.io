@@ -1,4 +1,6 @@
-[**A demo gif here**](https://github.com/Demolemon11/Demolemon11.github.io/blob/hotfix/statics/2024-10-22_20-57-59.gif)
+<video controls>
+    <source src="../statics/2024-10-22_20-57-59.gif" type="video/gif">
+</video>
 
 ## Ongoing tasks:
 Keep on doing refining the `Settings` page, under `home/spaces_dock.rs`.

@@ -1,3 +1,6 @@
+<video controls>
+    <source src="../statics/2024-10-14_21-29-59.webm" type="video/webm">
+</video>
 [**Account picture here**](https://github.com/Demolemon11/Demolemon11.github.io/blob/hotfix/statics/2024-10-28_19-01-54.png)
 [**Appearance picture here**](https://github.com/Demolemon11/Demolemon11.github.io/blob/hotfix/statics/2024-10-28_19-02-19.png)
 

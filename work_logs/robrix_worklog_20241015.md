@@ -1,4 +1,6 @@
-[**A demo video here**](https://github.com/Demolemon11/Demolemon11.github.io/blob/hotfix/statics/2024-10-15_19-24-43.webm)
+<video controls>
+    <source src="../statics/2024-10-15_19-24-43.webm" type="video/webm">
+</video>
 
 ## Ongoing tasks:
 I'm keep on doing refining the `Settings` page, under `home/spaces_dock.rs`.
