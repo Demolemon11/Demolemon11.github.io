@@ -26,6 +26,12 @@
 
 [**Robrix_Worklog_2024_1101**](/work_logs/robrix_worklog_20241101.md)
 
+<style>
+body {
+    font-family: serif;
+}
+</style>
+
 <script>
   const isMobile = window.innerWidth < 1090;
   document.body.style.backgroundImage = 'url("https://bing.img.run/uhd.php")';
