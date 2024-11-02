@@ -1,4 +1,9 @@
-[**A demo video here**](../statics/2024-10-14_21-29-59.webm)
+
+<!-- [**A demo video here**](../statics/2024-10-14_21-29-59.webm) -->
+
+<video controls>
+    <source src="../statics/2024-10-14_21-29-59.webm" type="video/webm">
+</video>
 
 ## Ongoing tasks:
 In the meantime I'm going to refine the `Settings` page, under `home/spaces_dock.rs`.
