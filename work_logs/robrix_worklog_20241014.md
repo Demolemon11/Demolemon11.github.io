@@ -9,8 +9,8 @@ video {
   left: 50%;
   min-width: 50%;
   min-height: 50%;
-  width: 1600px;
-  height: 900px;
+  width: 600px;
+  height: auto;
   transform: translate(-50%, -50%);
 }
 </style>
