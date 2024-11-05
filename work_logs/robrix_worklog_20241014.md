@@ -5,8 +5,8 @@
 <style>
 video {
   position: absolute;
-  top: 50%;
-  left: 50%;
+  top: 1%;
+  left: 10%;
   min-width: 50%;
   min-height: 50%;
   width: 600px;
