@@ -2,6 +2,13 @@
     <source src="../statics/2024-10-30_19-17-41.mp4" type="video/mp4">
 </video>
 
+<style>
+  video {
+      width: 60%;
+      height: auto;
+  }
+</style>
+
 ## Ongoing tasks:
 Trying to add the color & theme system within `Appearance` page via a static enum, which playing a role in passing theme & color's state.
 

@@ -1,4 +1,3 @@
-
 ## Ongoing tasks:
 Keep on doing refining the `Settings` page.
 Redesigned dock screen, use `<RadioButton>` to replace ther origin `RwLock<AppPage>`, which cause app easy to change page by clicking button within dock.
