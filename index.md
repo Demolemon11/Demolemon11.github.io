@@ -28,6 +28,8 @@
 
 [**Robrix_Worklog_2024_1104**](/work_logs/robrix_worklog_20241104.md)
 
+[**Robrix_Worklog_2024_1105**](/work_logs/robrix_worklog_20241105.md)
+
 <style>
 body {
     font-family: serif;
