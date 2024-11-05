@@ -44,21 +44,6 @@ struct ItemDrawnStatus {
 }
 ```
 
-
-Let's get the self user id in func `populate_message_view`:
-```
-if let Some(mentions) = message.mentions() {
-    let client = get_client().unwrap();
-    let self_id = client.user_id().unwrap();
-    new_drawn_status.mentioned_self = mentions.user_ids.iter().any(|x| x == self_id);
-    if new_drawn_status.mentioned_self {
-        log!("mentions_self: {}", self_id)
-    }
-}
-```
-Then we can get the receiver `UserId` easily by this logic in func `populate_message_view`.
-
-
 ## WorkInsights:
 At the end of `draw_walk` of `RoomScreen`:
 ```
