@@ -62,4 +62,4 @@ The common message is do inside the `RoomScreen`.
 However, I don't know why the common message still not can be `apply_over` to red though I forced `apply_over` all the widgets' bg to red
 
 
-<img src="../statics/2024-11-05_19-06-14.png" width="400" height="auto" loading="lazy">
+<img src="../statics/2024-11-05_19-06-14.png" width="500" height="auto" loading="lazy">
