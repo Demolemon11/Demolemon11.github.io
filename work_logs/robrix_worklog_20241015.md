@@ -5,7 +5,7 @@
 <style>
   video {
       width: auto;
-      height: 60%;
+      height: 40%;
   }
 </style>
 
