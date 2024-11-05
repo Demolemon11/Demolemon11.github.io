@@ -3,15 +3,10 @@
 </video>
 
 <style>
-video {
-  top: 20%;
-  left: 20%;
-  min-width: 50%;
-  min-height: 50%;
-  width: 500px;
-  height: auto;
-  transform: translate(-50%, -50%);
-}
+  video {
+    width: 500px;
+    height: auto;
+  }
 </style>
 
 

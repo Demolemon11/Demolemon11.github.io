@@ -4,13 +4,8 @@
 
 <style>
   video {
-    top: 1%;
-    left: 10%;
-    min-width: 50%;
-    min-height: 50%;
     width: 400px;
     height: auto;
-    transform: translate(-50%, -50%);
   }
 </style>
 
