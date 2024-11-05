@@ -35,8 +35,8 @@
   }
 </style>
 
-<div class="worklog"><a href="/work_logs/robrix_worklog_20241014.md">Robrix_Worklog_2024_1014</a></div>
-<div class="worklog"><a href="/work_logs/robrix_worklog_20241015.md">Robrix_Worklog_2024_1015</a></div>
+<div class="worklog"><a href="/work_logs/robrix_worklog_20241014.html">Robrix_Worklog_2024_1014</a></div>
+<div class="worklog"><a href="/work_logs/robrix_worklog_20241015.html">Robrix_Worklog_2024_1015</a></div>
 <div class="worklog"><a href="/work_logs/robrix_worklog_20241016.md">Robrix_Worklog_2024_1016</a></div>
 <div class="worklog"><a href="/work_logs/robrix_worklog_20241021.md">Robrix_Worklog_2024_1021</a></div>
 <div class="worklog"><a href="/work_logs/robrix_worklog_20241022.md">Robrix_Worklog_2024_1022</a></div>
