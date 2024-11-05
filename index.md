@@ -1,57 +1,53 @@
 <style>
-  body {
-    font-family: serif;
-    margin: 0;
-    padding: 0;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 20px;
-    padding: 20px;
-  }
-
-  .worklog {
-    background-color: #f5f5f5;
-    border-radius: 8px;
-    padding: 20px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  }
-
-  .worklog a {
-    color: #333;
-    text-decoration: none;
-    font-size: 18px;
-    font-weight: bold;
-  }
-
-  .worklog a:hover {
-    color: #007bff;
-  }
-
-  @media screen and (max-width: 600px) {
-    body {
-      grid-template-columns: 1fr;
-      padding: 10px;
-    }
-  }
+.worklog-container {
+  display: flex;
+  justify-content: space-between;
+}
+.worklog-column {
+  width: 45%;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+li {
+  margin-bottom: 5px;
+}
+a {
+  text-decoration: none;
+  color: #000;
+}
+a:hover {
+  text-decoration: underline;
+}
 </style>
 
-<div class="worklog"><a href="/work_logs/robrix_worklog_20241014.html">Robrix_Worklog_2024_1014</a></div>
-<div class="worklog"><a href="/work_logs/robrix_worklog_20241015.html">Robrix_Worklog_2024_1015</a></div>
-<div class="worklog"><a href="/work_logs/robrix_worklog_20241016.html">Robrix_Worklog_2024_1016</a></div>
-<div class="worklog"><a href="/work_logs/robrix_worklog_20241021.html">Robrix_Worklog_2024_1021</a></div>
-<div class="worklog"><a href="/work_logs/robrix_worklog_20241022.html">Robrix_Worklog_2024_1022</a></div>
-<div class="worklog"><a href="/work_logs/robrix_worklog_20241023.html">Robrix_Worklog_2024_1023</a></div>
-<div class="worklog"><a href="/work_logs/robrix_worklog_20241024.html">Robrix_Worklog_2024_1024</a></div>
-<div class="worklog"><a href="/work_logs/robrix_worklog_20241025.html">Robrix_Worklog_2024_1025</a></div>
-<div class="worklog"><a href="/work_logs/robrix_worklog_20241026.html">Robrix_Worklog_2024_1026</a></div>
-<div class="worklog"><a href="/work_logs/robrix_worklog_20241028.html">Robrix_Worklog_2024_1028</a></div>
-<div class="worklog"><a href="/work_logs/robrix_worklog_20241029.html">Robrix_Worklog_2024_1029</a></div>
-<div class="worklog"><a href="/work_logs/robrix_worklog_20241030.html">Robrix_Worklog_2024_1030</a></div>
-<div class="worklog"><a href="/work_logs/robrix_worklog_20241031.html">Robrix_Worklog_2024_1031</a></div>
-<div class="worklog"><a href="/work_logs/robrix_worklog_20241101.html">Robrix_Worklog_2024_1101</a></div>
-<div class="worklog"><a href="/work_logs/robrix_worklog_20241104.html">Robrix_Worklog_2024_1104</a></div>
-<div class="worklog"><a href="/work_logs/robrix_worklog_20241105.html">Robrix_Worklog_2024_1105</a></div>
-
+<div class="worklog-container">
+  <div class="worklog-column">
+    <ul>
+      <li><a href="/work_logs/robrix_worklog_20241014.md">Robrix_Worklog_2024_1014</a></li>
+      <li><a href="/work_logs/robrix_worklog_20241015.md">Robrix_Worklog_2024_1015</a></li>
+      <li><a href="/work_logs/robrix_worklog_20241016.md">Robrix_Worklog_2024_1016</a></li>
+      <li><a href="/work_logs/robrix_worklog_20241021.md">Robrix_Worklog_2024_1021</a></li>
+      <li><a href="/work_logs/robrix_worklog_20241022.md">Robrix_Worklog_2024_1022</a></li>
+      <li><a href="/work_logs/robrix_worklog_20241023.md">Robrix_Worklog_2024_1023</a></li>
+      <li><a href="/work_logs/robrix_worklog_20241024.md">Robrix_Worklog_2024_1024</a></li>
+      <li><a href="/work_logs/robrix_worklog_20241025.md">Robrix_Worklog_2024_1025</a></li>
+    </ul>
+  </div>
+  <div class="worklog-column">
+    <ul>
+      <li><a href="/work_logs/robrix_worklog_20241026.md">Robrix_Worklog_2024_1026</a></li>
+      <li><a href="/work_logs/robrix_worklog_20241028.md">Robrix_Worklog_2024_1028</a></li>
+      <li><a href="/work_logs/robrix_worklog_20241029.md">Robrix_Worklog_2024_1029</a></li>
+      <li><a href="/work_logs/robrix_worklog_20241030.md">Robrix_Worklog_2024_1030</a></li>
+      <li><a href="/work_logs/robrix_worklog_20241031.md">Robrix_Worklog_2024_1031</a></li>
+      <li><a href="/work_logs/robrix_worklog_20241101.md">Robrix_Worklog_2024_1101</a></li>
+      <li><a href="/work_logs/robrix_worklog_20241104.md">Robrix_Worklog_2024_1104</a></li>
+      <li><a href="/work_logs/robrix_worklog_20241105.md">Robrix_Worklog_2024_1105</a></li>
+    </ul>
+  </div>
+</div>
 
 <script>
   const isMobile = window.innerWidth < 1090;
