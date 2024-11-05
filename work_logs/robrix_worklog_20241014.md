@@ -4,8 +4,11 @@
 
 <style>
   video {
-    width: 500px;
-    height: auto;
+      width: 60%; /* 宽度占满整个视口 */
+      height: auto; /* 高度按比例缩放 */
+      position: fixed; /* 固定定位，使视频始终位于页面最上方 */
+      top: 0; /* 定位在页面顶部 */
+      z-index: -1; /* 保证视频不会挡住其他内容 */
   }
 </style>
 
