@@ -55,3 +55,17 @@ a:hover {
   text-decoration: underline;
 }
 </style>
+
+<script>
+  const isMobile = window.innerWidth < 1090;
+  document.body.style.backgroundImage = 'url("https://bing.img.run/uhd.php")';
+
+  if (isMobile) {
+  document.body.style.backgroundPosition = 'center';
+  }
+  else {
+    document.body.style.backgroundSize = '100% auto';
+  }
+
+  document.body.style.backgroundRepeat = 'no-repeat';
+</script>
