@@ -2,6 +2,13 @@
     <source src="../statics/2024-10-16_18-20-22" type="video/webm">
 </video>
 
+<style>
+  video {
+    width: 400px;
+    height: auto;
+  }
+</style>
+
 ## Ongoing tasks:
 I'm keep on doing refining the `Settings` page, under `home/spaces_dock.rs`.
 I am reloading the `Dock` as ther first thing,

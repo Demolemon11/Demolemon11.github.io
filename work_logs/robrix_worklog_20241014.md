@@ -4,7 +4,6 @@
 
 <style>
 video {
-  position: absolute;
   top: 20%;
   left: 20%;
   min-width: 50%;
