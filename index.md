@@ -1,25 +1,25 @@
 <style>
-.worklog-container {
+  .worklog-container {
   display: flex;
   justify-content: space-between;
-}
-.worklog-column {
-  width: 45%;
-}
-ul {
-  list-style-type: none;
-  padding: 0;
-}
-li {
-  margin-bottom: 5px;
-}
-a {
-  text-decoration: none;
-  color: #000;
-}
-a:hover {
-  text-decoration: underline;
-}
+  }
+  .worklog-column {
+    width: 45%;
+  }
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  li {
+    margin-bottom: 5px;
+  }
+  a {
+    text-decoration: none;
+    color: #000;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
 </style>
 
 <div class="worklog-container">
