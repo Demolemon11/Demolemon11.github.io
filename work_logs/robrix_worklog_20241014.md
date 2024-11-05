@@ -4,9 +4,8 @@
 
 <style>
   video {
-      width: 60%; /* 宽度占满整个视口 */
-      height: auto; /* 高度按比例缩放 */
-  }
+      width: 60%;
+      height: auto;
 </style>
 
 
