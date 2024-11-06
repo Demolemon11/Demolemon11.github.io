@@ -1,26 +1,3 @@
-<style>
-  .worklog-container {
-  display: flex;
-  justify-content: space-between;
-  }
-  .worklog-column {
-    width: 45%;
-  }
-  ul {
-    list-style-type: none;
-    padding: 0;
-  }
-  li {
-    margin-bottom: 5px;
-  }
-  a {
-    text-decoration: none;
-    color: #000;
-  }
-  a:hover {
-    text-decoration: underline;
-  }
-</style>
 
 <div class="worklog-container">
   <div class="worklog-column">
@@ -45,9 +22,34 @@
       <li><a href="/work_logs/robrix_worklog_20241101.html">Robrix_Worklog_2024_1101</a></li>
       <li><a href="/work_logs/robrix_worklog_20241104.html">Robrix_Worklog_2024_1104</a></li>
       <li><a href="/work_logs/robrix_worklog_20241105.html">Robrix_Worklog_2024_1105</a></li>
+      <li><a href="/work_logs/robrix_worklog_20241106.html">Robrix_Worklog_2024_1106</a></li>
     </ul>
   </div>
 </div>
+
+<style>
+  .worklog-container {
+  display: flex;
+  justify-content: space-between;
+  }
+  .worklog-column {
+    width: 45%;
+  }
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  li {
+    margin-bottom: 5px;
+  }
+  a {
+    text-decoration: none;
+    color: #000;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+</style>
 
 <script>
   const isMobile = window.innerWidth < 1090;
