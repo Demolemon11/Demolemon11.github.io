@@ -49,8 +49,13 @@ I have debugged this all day, and don't why this is.
 
 ## WorkInsights:
 Some pictures for message of mentioned self highlight, it's random, IMHO:
+
 [Mr.Boos: off](../statics/2024-11-06_17-13-19.png)
+
 [Zhifeng Luo: on](../statics/2024-11-06_17-13-32.png)
+
 [Person A: on](../statics/2024-11-06_17-14-01.png)
+
 [Person B: off](../statics/2024-11-06_17-14-51.png)
+
 [Person C: on](../statics/2024-11-06_17-20-47.png)
