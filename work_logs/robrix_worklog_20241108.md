@@ -4,11 +4,11 @@
 
 ----
 
-pr [246](https://github.com/project-robius/robrix/pull/246) is waiting for reply.
+Both they two are waiting for reply.
 
 ## Difficulties:
 
-All in the prs what mentioned above.
+All the hardship is in the prs what mentioned above.
 
 ## WorkInsights:
 
