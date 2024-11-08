@@ -1,6 +1,6 @@
 ## Ongoing tasks:
 - pr [244](https://github.com/project-robius/robrix/pull/243) => issue [Display verification status as a badge atop the user profile icon](https://github.com/project-robius/robrix/issues/241)
-- pr [246](https://github.com/project-robius/robrix/pull/246) => issue[Properly handle matrix.to links for Rooms](https://github.com/project-robius/robrix/issues/87)
+- pr [246](https://github.com/project-robius/robrix/pull/246) => issue [Properly handle matrix.to links for Rooms](https://github.com/project-robius/robrix/issues/87)
 
 ----
 
