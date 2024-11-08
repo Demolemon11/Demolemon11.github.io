@@ -29,7 +29,7 @@ But I am in the way to perfect.
 ----
 
 For pr [246](https://github.com/project-robius/robrix/pull/246) => issue[Properly handle matrix.to links for Rooms](https://github.com/project-robius/robrix/issues/87)
-- Waiting for Zhifeng Luo's resulotion for these all kind of links and `OwnedRoomId` & `OwnedRoomAliasId`'s transformation.
+- Waiting for Zhifeng Luo's resulotion for those common links & alias links.
 - Waiting for Mr.Boos's explicit reply for which fileds need to be modified.
 
 <style>
