@@ -24,6 +24,7 @@
       <li><a href="/work_logs/robrix_worklog_20241105.html">Robrix_Worklog_2024_1105</a></li>
       <li><a href="/work_logs/robrix_worklog_20241106.html">Robrix_Worklog_2024_1106</a></li>
       <li><a href="/work_logs/robrix_worklog_20241107.html">Robrix_Worklog_2024_1107</a></li>
+      <li><a href="/work_logs/robrix_worklog_20241108.html">Robrix_Worklog_2024_1108</a></li>
     </ul>
   </div>
 </div>
