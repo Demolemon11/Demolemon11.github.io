@@ -21,9 +21,11 @@ But I am in the way to perfect.
 
 <video controls>
     <source src="../statics/2024-11-08_12-00-38.webm" type="video/webm">
-    <source src="../statics/2024-11-08_19-22-14.webm" type="video/webm">
 </video>
 
+<video controls>
+    <source src="../statics/2024-11-08_19-22-14.webm" type="video/webm">
+</video>
 ----
 
 For pr [246](https://github.com/project-robius/robrix/pull/246) => issue[Properly handle matrix.to links for Rooms](https://github.com/project-robius/robrix/issues/87)
