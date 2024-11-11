@@ -24,6 +24,7 @@ For pr [246](https://github.com/project-robius/robrix/pull/246):
     <source src="../statics/2024-11-11_14-35-47.webm" type="video/webm">
 </video>
 
+----
 
 **This will panic:**
 <video controls>
