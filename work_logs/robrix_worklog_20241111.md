@@ -14,6 +14,7 @@ I Have mentioned the truble I met at [here](https://github.com/project-robius/ro
 
 ## Difficulties:
 [244](https://github.com/project-robius/robrix/pull/244) Align just don't work, I don't know how to center an `<Icon>` in a `<View>`.
+
 [246](https://github.com/project-robius/robrix/pull/246) The function works only in exceptional circumstances and failure with two panics, all in the pr.
 
 ## WorkInsights:
