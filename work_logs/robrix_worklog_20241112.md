@@ -18,7 +18,7 @@ solution: restore the verification status to `Profile` struct.
 <video controls>
     <source src="../statics/2024-11-12_19-09-02.webm" type="video/webm">
 </video>
-
+----
 For pr [239](https://github.com/project-robius/robrix/pull/239) => issue [Don't show message text input bar if the user cannot send messages in a room](https://github.com/project-robius/robrix/issues/239)
 
 Waiting for clearer reply.
