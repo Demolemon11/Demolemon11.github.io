@@ -19,7 +19,7 @@ For pr [253](https://github.com/project-robius/robrix/pull/253) => issue [Don't 
 
 
 <video controls>
-    <source src="../statics/2024-11-12_19-09-02.webm" type="video/webm">
+    <source src="../statics/2024-11-13_10-15-14.webm" type="video/webm">
 </video>
 
 ## WorkInsights:
