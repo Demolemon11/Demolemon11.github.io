@@ -5,7 +5,7 @@
 ## Difficulties:
 For issue [Display verification status as a badge atop the user profile icon](https://github.com/project-robius/robrix/issues/241)
 
-It seems that Alan's advice cannot work..., waiting for Julian's reply.
+It still could not work..., waiting for Julian's reply.
 
 ----
 
